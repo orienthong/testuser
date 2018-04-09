@@ -1,0 +1,37 @@
+      993      4 -rw-r--r--   1 root     root         1655 Dec  3  2015 ./var/lib/ucf/cache/:etc:rsyslog.d:50-default.conf
+  1179672      4 -rw-r--r--   1 root     root          655 Jul 25  2017 ./lib/modprobe.d/aliases.conf
+  1182840      4 -rw-r--r--   1 root     root         1352 Jan 19  2017 ./lib/modprobe.d/blacklist_linux_4.4.0-62-generic.conf
+  1189878      4 -rw-r--r--   1 root     root          290 Oct 27 10:22 ./lib/systemd/system/rc-local.service.d/debian.conf
+  1189853      4 -rw-r--r--   1 root     root          251 Oct 27 10:22 ./lib/systemd/system/systemd-timesyncd.service.d/disable-with-time-daemon.conf
+  1189763      4 -rw-r--r--   1 root     root          200 Oct 27 16:13 ./lib/systemd/system/systemd-resolved.service.d/resolvconf.conf
+  1048584      4 -rw-r--r--   1 root     root         3028 Feb 16  2017 ./etc/adduser.conf
+  1049306      4 -rw-r--r--   1 root     root         1475 Oct 13  2016 ./etc/apparmor/parser.conf
+  1049307      4 -rw-r--r--   1 root     root         1962 Oct 13  2016 ./etc/apparmor/subdomain.conf
+  1049375      4 -rw-r--r--   1 root     root          350 Aug 17  2017 ./etc/popularity-contest.conf
+  1048737      4 -rw-r--r--   1 root     root          604 Jul  3  2015 ./etc/deluser.conf
+  1049191      4 -rw-r--r--   1 root     root          280 Jun 20  2014 ./etc/fuse.conf
+  1049435      4 -rw-r--r--   1 root     root          312 Aug 17  2017 ./etc/ufw/ufw.conf
+  1049351      4 -rw-r--r--   1 root     root         1941 Apr 15  2016 ./etc/ufw/sysctl.conf
+  1049330      4 -rw-r--r--   1 root     root          338 Nov 18  2014 ./etc/updatedb.conf
+  1048761      4 -rw-r--r--   1 root     root           92 Oct 23  2015 ./etc/host.conf
+  1049321      8 -rw-r--r--   1 root     root         4781 Mar 17  2016 ./etc/hdparm.conf
+  1048720      4 -rw-r--r--   1 root     root          953 Apr 12  2016 ./etc/dbus-1/system.d/org.freedesktop.resolve1.conf
+  1048722      4 -rw-r--r--   1 root     root          947 Apr 12  2016 ./etc/dbus-1/system.d/org.freedesktop.timedate1.conf
+  1048717      4 -rw-r--r--   1 root     root          937 Apr 12  2016 ./etc/dbus-1/system.d/org.freedesktop.locale1.conf
+  1050166      4 -rw-r--r--   1 root     root          662 Mar  7  2017 ./etc/dbus-1/system.d/com.ubuntu.SoftwareProperties.conf
+  1048721     12 -rw-r--r--   1 root     root         9720 Apr 12  2016 ./etc/dbus-1/system.d/org.freedesktop.systemd1.conf
+  1049159      4 -rw-r--r--   1 root     root          917 Nov  4  2016 ./etc/dbus-1/system.d/org.freedesktop.Accounts.conf
+  1048716      4 -rw-r--r--   1 root     root          947 Apr 12  2016 ./etc/dbus-1/system.d/org.freedesktop.hostname1.conf
+  1049161      4 -rw-r--r--   1 root     root          733 Nov  5  2013 ./etc/dbus-1/system.d/com.ubuntu.LanguageSelector.conf
+  1048718     16 -rw-r--r--   1 root     root        12309 Apr 12  2016 ./etc/dbus-1/system.d/org.freedesktop.login1.conf
+  1048719      4 -rw-r--r--   1 root     root         1604 Apr 12  2016 ./etc/dbus-1/system.d/org.freedesktop.network1.conf
+  1050097      4 -rw-r--r--   1 root     root         2528 Jun 16  2017 ./etc/nscd.conf
+  1049312      4 -rw-r--r--   1 root     root          332 May 12  2016 ./etc/ldap/ldap.conf
+  1048885      4 -rw-r--r--   1 root     root          703 May  6  2015 ./etc/logrotate.conf
+  1048734      4 -rw-r--r--   1 root     root          155 Aug 17  2017 ./etc/e2fsck.conf
+  1049928      0 lrwxrwxrwx   1 root     root           10 Feb  1 22:31 ./etc/modules-load.d/modules.conf -> ../modules
+  1053291      4 -rw-r--r--   1 root     root          422 Feb 12  2017 ./etc/nginx/snippets/fastcgi-php.conf
+  1053292      4 -rw-r--r--   1 root     root          217 Feb 12  2017 ./etc/nginx/snippets/snakeoil.conf
+  1053294      4 -rw-r--r--   1 root     root         1462 Feb 12  2017 ./etc/nginx/nginx.conf
+31 /etc/passwd
+
